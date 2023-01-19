@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tengu", "Tengu\Tengu.vcxproj", "{F49D3A3A-76DE-46E9-8A4E-CA215F382F56}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SandBox", "SandBox\SandBox.vcxproj", "{5DD55333-82F1-4E6A-932C-CAB6C43855F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49D3A3A-76DE-46E9-8A4E-CA215F382F56}.Debug|x64.ActiveCfg = Debug|x64
+		{F49D3A3A-76DE-46E9-8A4E-CA215F382F56}.Debug|x64.Build.0 = Debug|x64
+		{F49D3A3A-76DE-46E9-8A4E-CA215F382F56}.Release|x64.ActiveCfg = Release|x64
+		{F49D3A3A-76DE-46E9-8A4E-CA215F382F56}.Release|x64.Build.0 = Release|x64
+		{5DD55333-82F1-4E6A-932C-CAB6C43855F5}.Debug|x64.ActiveCfg = Debug|x64
+		{5DD55333-82F1-4E6A-932C-CAB6C43855F5}.Debug|x64.Build.0 = Debug|x64
+		{5DD55333-82F1-4E6A-932C-CAB6C43855F5}.Release|x64.ActiveCfg = Release|x64
+		{5DD55333-82F1-4E6A-932C-CAB6C43855F5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C434B30E-7192-4085-A9FF-76A22C4EA6FB}
+	EndGlobalSection
+EndGlobal
