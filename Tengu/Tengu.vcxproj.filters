@@ -17,9 +17,15 @@
     <ClInclude Include="Tengu\EntryPoint.h">
       <Filter>Tengu</Filter>
     </ClInclude>
+    <ClInclude Include="Tengu\Logger.h">
+      <Filter>Tengu</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Tengu\Application.cpp">
+      <Filter>Tengu</Filter>
+    </ClCompile>
+    <ClCompile Include="Tengu\Logger.cpp">
       <Filter>Tengu</Filter>
     </ClCompile>
   </ItemGroup>
